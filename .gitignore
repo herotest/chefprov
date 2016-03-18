@@ -4,5 +4,6 @@
 # Ignore Chef key files and secrets
 ###
 .chef/*.pem
+.chef/*.pub
 .chef/encrypted_data_bag_secret
 .chef/knife.rb
